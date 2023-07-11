@@ -1,0 +1,15 @@
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/bin/Debug/netstandard2.0/GameStore.deps.json
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/bin/Debug/netstandard2.0/GameStore.dll
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/bin/Debug/netstandard2.0/ref/GameStore.dll
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/bin/Debug/netstandard2.0/GameStore.pdb
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/GameStore.csproj.AssemblyReference.cache
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/GameStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/GameStore.AssemblyInfoInputs.cache
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/GameStore.AssemblyInfo.cs
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/GameStore.csproj.CoreCompileInputs.cache
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/GameStore.dll
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/refint/GameStore.dll
+/Users/ecairo/Projects/GameStore/GameStore/GameStore/obj/Debug/netstandard2.0/GameStore.pdb

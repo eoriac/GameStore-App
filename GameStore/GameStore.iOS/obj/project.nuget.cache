@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5G84KpGdGokvAYgufNcysSLB9kQsqn6Ho5Kjc8XPlm5Ud81MQLGcprA6Z7EiLGJNy8iDO43VS4nIb+ugo5Q4g==",
+  "success": true,
+  "projectFilePath": "/Users/ecairo/Projects/GameStore/GameStore/GameStore.iOS/GameStore.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ecairo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ecairo/.nuget/packages/xamarin.essentials/1.7.7/xamarin.essentials.1.7.7.nupkg.sha512",
+    "/Users/ecairo/.nuget/packages/xamarin.forms/5.0.0.2578/xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}
